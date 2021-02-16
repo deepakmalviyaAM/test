@@ -1,0 +1,4 @@
+{
+    "dbUrl": "mongodb://justfortest:test123@localhost:27017?authMechanism=SCRAM-SHA-1&authSource=test",
+    "imgPath": "public/"
+}
